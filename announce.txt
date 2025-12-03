@@ -62,6 +62,7 @@
             "id": "sensevoice-model",
             "filename": "sensevoice/model.onnx",
             "url": "https://modelscope.cn/models/xiaowangge/sherpa-onnx-sense-voice-small/resolve/master/model.onnx",
+            "url2": "https://huggingface.co/csukuangfj/sherpa-onnx-sense-voice-zh-en-ja-ko-yue-2024-07-17/resolve/main/model.onnx",
             "md5": "",
             "required": true
         },
@@ -69,6 +70,7 @@
             "id": "sensevoice-tokens",
             "filename": "sensevoice/tokens.txt",
             "url": "https://modelscope.cn/models/xiaowangge/sherpa-onnx-sense-voice-small/resolve/master/tokens.txt",
+            "url2": "https://huggingface.co/csukuangfj/sherpa-onnx-sense-voice-zh-en-ja-ko-yue-2024-07-17/resolve/main/tokens.txt",
             "md5": "",
             "required": true
         },
@@ -76,6 +78,7 @@
             "id": "vad-model",
             "filename": "vad/model.onnx",
             "url": "https://gitee.com/fzfz666/1735d23712043f6851fe939dde5c0051bcc6b9be/raw/master/model.onnx",
+            "url2": "https://github.com/snakers4/silero-vad/raw/master/src/silero_vad/data/silero_vad.onnx",
             "md5": "",
             "required": true
         }
@@ -109,4 +112,5 @@
             "a": "是的！FreeShuo 使用本地 AI 模型离线处理所有内容。"
         }
     ]
+
 }
