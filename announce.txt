@@ -91,6 +91,14 @@
         "correction_unlock_criteria": {
             "min_minutes": 1,
             "min_days": 5
+        },
+        "analytics_config": {
+            "enable_detailed_mode": false,
+            "services": {
+                "baidu": "detailed",
+                "la51": "detailed",
+                "aptabase": "simple"
+            }
         }
     },
     "feedback": {
@@ -114,3 +122,4 @@
     ]
 
 }
+
