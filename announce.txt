@@ -1,0 +1,112 @@
+{
+    "global": {
+        "app_status": "normal",
+        "maintenance_msg": "服务器正在进行预定维护。请在 30 分钟后重试。",
+        "api_base_url": "https://api.freeshuo.com/v1"
+    },
+    "update": {
+        "version_code": 0,
+        "latest_version": "0.0.0",
+        "force_update": false,
+        "download_url": "https://github.com/fzfz666/freeshuo/releases/latest",
+        "changelog": "✨ 奇妙更新 v0.2.0\n\n- 🎨 全新的“奇妙 3D” UI 设计\n- 🚀 为新用户添加了新手引导流程\n- 🎙️ 改进了语音情感分析\n- 🐛 修复了录音自动停止的问题\n- 📝 新增“校正工作室”功能",
+        "remind_limit": 3
+    },
+    "announcements": [
+        {
+            "id": 2023112801,
+            "enable": false,
+            "title": "🎉 欢迎来到奇妙版本！",
+            "content": "我们已经彻底重新设计了 FreeShuo，使其更加沉浸和智能。快来看看会对你的声音做出反应的全新 **情感化身**！\n\n随时按下 Alt+S 即可开始录音！",
+            "image_url": "",
+            "link_url": "https://github.com/fzfz666/freeshuo/blob/main/README.md",
+            "max_show_count": 5,
+            "placement": "home"
+        },
+        {
+            "id": 2023112802,
+            "enable": true,
+            "title": "尝试校正工作室",
+            "content": "使用 AI 完美润色你的转录内容。现在支持语法修正与风格润色。",
+            "image_url": "",
+            "link_url": "https://github.com/fzfz666/freeshuo",
+            "max_show_count": 5,
+            "placement": "correction"
+        }
+    ],
+    "ads": [
+        {
+            "enable": true,
+            "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=800&auto=format&fit=crop",
+            "text": "🚀 使用 FreeShuo Pro 提升你的效率。早鸟优惠现已开启！",
+            "click_url": "https://github.com/fzfz666/freeshuo",
+            "expire_date": "2025-12-31",
+            "placement": "home"
+        },
+        {
+            "enable": true,
+            "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=800&auto=format&fit=crop",
+            "text": "📝 专业版校正功能：更精准的语法分析。",
+            "click_url": "https://github.com/fzfz666/freeshuo",
+            "expire_date": "2025-12-31",
+            "placement": "correction"
+        }
+    ],
+    "contact": {
+        "group_num": "88888888",
+        "qr_url": "https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/fzfz666/freeshuo",
+        "join_link": "https://github.com/fzfz666/freeshuo"
+    },
+    "models": [
+        {
+            "id": "sensevoice-model",
+            "filename": "sensevoice/model.onnx",
+            "url": "https://modelscope.cn/models/xiaowangge/sherpa-onnx-sense-voice-small/resolve/master/model.onnx",
+            "md5": "",
+            "required": true
+        },
+        {
+            "id": "sensevoice-tokens",
+            "filename": "sensevoice/tokens.txt",
+            "url": "https://modelscope.cn/models/xiaowangge/sherpa-onnx-sense-voice-small/resolve/master/tokens.txt",
+            "md5": "",
+            "required": true
+        },
+        {
+            "id": "vad-model",
+            "filename": "vad/model.onnx",
+            "url": "https://gitee.com/fzfz666/1735d23712043f6851fe939dde5c0051bcc6b9be/raw/master/model.onnx",
+            "md5": "",
+            "required": true
+        }
+    ],
+    "features": {
+        "new_ui_engine": true,
+        "advanced_mode": true,
+        "holiday_theme": false,
+        "enable_ai_correction": true,
+        "correction_unlock_criteria": {
+            "min_minutes": 1,
+            "min_days": 5
+        }
+    },
+    "feedback": {
+        "enable": true,
+        "text": "报告 Bug / 请求新功能",
+        "url": "https://github.com/fzfz666/freeshuo/issues"
+    },
+    "faq": [
+        {
+            "q": "如何使用全局快捷键？",
+            "a": "在任何地方按下 Alt+S 即可切换录音。按下 Alt+D 捕获选中的文本。"
+        },
+        {
+            "q": "我的录音保存在哪里？",
+            "a": "所有录音都本地保存在您设备的“历史记录”选项卡中。"
+        },
+        {
+            "q": "我的语音数据隐私安全吗？",
+            "a": "是的！FreeShuo 使用本地 AI 模型离线处理所有内容。"
+        }
+    ]
+}
