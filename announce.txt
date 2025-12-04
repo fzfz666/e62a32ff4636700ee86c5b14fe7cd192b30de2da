@@ -37,25 +37,25 @@
     "ads": [
         {
             "enable": true,
-            "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=800&auto=format&fit=crop",
-            "text": "🚀 使用 FreeShuo Pro 提升你的效率。早鸟优惠现已开启！",
-            "click_url": "https://github.com/fzfz666/freeshuo",
+            "image_url": "https://gitee.com/fzfz666/1735d23712043f6851fe939dde5c0051bcc6b9be/raw/master/ad.png",
+            "text": "🚀 使用 FreeShuo Pro 提升你的效率！设置中扫码加群和开发者对话。",
+            "click_url": "https://gitee.com",
             "expire_date": "2025-12-31",
             "placement": "home"
         },
         {
             "enable": true,
-            "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=800&auto=format&fit=crop",
+            "image_url": "https://gitee.com/fzfz666/1735d23712043f6851fe939dde5c0051bcc6b9be/raw/master/ad2.png",
             "text": "📝 专业版校正功能：更精准的语法分析。",
-            "click_url": "https://github.com/fzfz666/freeshuo",
+            "click_url": "https://gitee.com",
             "expire_date": "2025-12-31",
             "placement": "correction"
         }
     ],
     "contact": {
-        "group_num": "88888888",
-        "qr_url": "https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/fzfz666/freeshuo",
-        "join_link": "https://github.com/fzfz666/freeshuo"
+        "group_num": "直接扫码加微信群",
+        "qr_url": "https://gitee.com/fzfz666/1735d23712043f6851fe939dde5c0051bcc6b9be/raw/master/wechat.jpg",
+        "join_link": "https://gitee.com"
     },
     "models": [
         {
@@ -122,4 +122,5 @@
     ]
 
 }
+
 
