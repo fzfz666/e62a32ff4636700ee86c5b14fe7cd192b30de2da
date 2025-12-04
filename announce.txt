@@ -89,7 +89,7 @@
         "holiday_theme": false,
         "enable_ai_correction": true,
         "correction_unlock_criteria": {
-            "min_minutes": 1,
+            "min_minutes": 0,
             "min_days": 5
         },
         "analytics_config": {
@@ -122,5 +122,6 @@
     ]
 
 }
+
 
 
