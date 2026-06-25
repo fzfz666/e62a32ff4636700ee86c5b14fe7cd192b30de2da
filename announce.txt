@@ -99,15 +99,13 @@
                 "la51": "detailed",
                 "aptabase": "simple"
             }
-        }
+        },
+        "avatar_unlock_all": true
     },
     "feedback": {
         "enable": true,
         "text": "报告 Bug / 请求新功能",
         "url": "https://github.com/fzfz666/freeshuo/issues"
-    },
-    "features": {
-        "avatar_unlock_all": true
     },
     "faq": [
         {
