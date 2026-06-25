@@ -54,7 +54,7 @@
     ],
     "contact": {
         "group_num": "直接扫码加微信群",
-        "qr_url": "https://gitee.com/fzfz666/1735d23712043f6851fe939dde5c0051bcc6b9be/raw/master/wechat.jpg",
+        "qr_url": "https://gitee.com/fzfz666/1735d23712043f6851fe939dde5c0051bcc6b9be/raw/master/wechat12.jpg",
         "join_link": "https://gitee.com"
     },
     "models": [
@@ -105,6 +105,9 @@
         "enable": true,
         "text": "报告 Bug / 请求新功能",
         "url": "https://github.com/fzfz666/freeshuo/issues"
+    },
+    "features": {
+        "avatar_unlock_all": true
     },
     "faq": [
         {
