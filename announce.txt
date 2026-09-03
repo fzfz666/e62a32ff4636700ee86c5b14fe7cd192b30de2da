@@ -5,11 +5,11 @@
         "api_base_url": "https://gitee.com/v1"
     },
     "update": {
-        "version_code": 106,
-        "latest_version": "0.2.1",
+        "version_code": 107,
+        "latest_version": "0.2.2",
         "force_update": false,
-        "download_url": "https://gitee.com/fzfz666/freely/raw/master/Freely_0.2.1_x64-setup.exe",
-        "changelog": "✨ 全新 v0.2.1\n\n- 🎨 全新的“奇妙 3D” UI 设计\n- 🚀 笔记功能\n- 🎙️ 改进了语音情感分析\n- 🐛 修复了录音自动停止的问题\n- 📝 完善其他功能",
+        "download_url": "https://gitee.com/fzfz666/freely/raw/master/Freely_0.2.2_x64-setup.exe",
+        "changelog": "✨ 更新 v0.2.2\n\n- 🐛 优化并修复了一些小问题\n- 📝 提升系统稳定性",
         "remind_limit": 3
     },
     "announcements": [
