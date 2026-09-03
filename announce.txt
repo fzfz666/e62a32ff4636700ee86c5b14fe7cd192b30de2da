@@ -14,10 +14,10 @@
     },
     "announcements": [
         {
-            "id": 2023112803,
+            "id": 2023112804,
             "enable": true,
             "title": "🎉 欢迎来到内测版本！打字效率up!up!",
-            "content": "1. 请大家在应用商店给个好评，这对我们非常重要！\n2. 欢迎使用，加入内测群变得更好\n3. 永久免费",
+            "content": "🌟 1. 请大家在应用商店给个好评，这对我们非常重要！❤️\n🚀 2. 欢迎使用，加入内测群变得更好 💬\n🎉 3. 永久免费 ✨",
             "image_url": "https://gitee.com/fzfz666/1735d23712043f6851fe939dde5c0051bcc6b9be/raw/master/wechat11.jpg",
             "link_url": "https://freely.llm66.com/",
             "max_show_count": 1,
